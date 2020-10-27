@@ -2,6 +2,7 @@
 Stable management software
 
 1. FRENCH --------------------------------------------------------------------
+
 Qu'est ce Stable-Management ?
 Stable-Management est un logiciel de gestion d'écurie.
 
