@@ -1,3 +1,4 @@
+# 17/01/2022 Par manque de temps pour pouvoir m'occuper du projet, j'archive celui-ci ce jour
 # Stable-Management
 Stable management software
 
